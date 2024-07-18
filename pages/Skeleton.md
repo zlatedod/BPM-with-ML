@@ -1,0 +1,13 @@
+- Example paper
+	- ![Machine_learning_in_business_process_management_A_.pdf](../assets/Machine_learning_in_business_process_management_A_1721254027237_0.pdf)
+	-
+-
+- [[Abstract]]
+- [[Keywords]]
+- [[Introduction]]
+- [[Background]]
+- [[Related Literature Review]]
+-
+-
+-
+-
