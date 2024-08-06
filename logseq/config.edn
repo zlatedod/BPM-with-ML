@@ -419,4 +419,4 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :zotero/settings-v2 {"default" {:type-id "4742168", :attachments-block-text "[[Attachments]]", :zotero-data-directory "/Users/ZlateDodevski/Zotero", :zotero-linked-attachment-base-directory "", :extra-tags "library"}}}
+ :zotero/settings-v2 {"default" {:type-id "4742168", :attachments-block-text "[[Attachments]]", :zotero-data-directory "C:/Users/ZlateDodevski/Zotero", :zotero-linked-attachment-base-directory "", :extra-tags "library"}}}
